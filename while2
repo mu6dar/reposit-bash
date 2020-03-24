@@ -1,0 +1,6 @@
+#!/bin/bash
+
+hile read line
+do
+echo $line
+done
